@@ -1,0 +1,10 @@
+<turret_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.47072 -0.000383309 -2.3605</min>
+    <max>1.46589 2.14858 1.54104</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/russian/R45_IS-7/normal/lod0/Turret_01</nodefullVisual>
+</turret_01.model>
